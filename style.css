@@ -42,3 +42,21 @@
 .benefits {
   font-family: 'Kaushan Script', cursive;
 }
+
+.footer-text {
+  position: absolute;
+  top: 55vh;
+  font-family: 'Kaushan Script', cursive;
+  color: #084B42;
+  padding-left: 30px;
+
+}
+
+.recipes-div {
+  padding-left: 60px;
+}
+
+.recipes {
+  margin-top: 50px;
+  font-family: 'Kaushan Script', cursive;
+}
