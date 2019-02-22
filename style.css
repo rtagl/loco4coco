@@ -1,0 +1,44 @@
+
+
+.navbar {
+  color: rgb(17, 189, 163);
+}
+
+.btn-logo {
+  font-family: 'Kaushan Script', cursive;
+  position: absolute;
+  background: #084B42;
+  width: 210px;
+  top: 55vh;
+  left: 10vw;
+  border: none;
+  font-color: whitesmoke;
+}
+
+.logo-title {
+  position: absolute;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  top: 30vh;
+  left: 10vw;
+}
+
+.logo-sub {
+  position: absolute;
+  font-family: 'Avanir';
+  color: whitesmoke;
+  top: 40vh;
+  left: 10vw;
+}
+
+.logo-title h2 {
+  font-size: 3rem;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.benefits {
+  font-family: 'Kaushan Script', cursive;
+}
